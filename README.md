@@ -25,4 +25,4 @@ Let me tell you a bit about myself <img src="https://raw.githubusercontent.com/M
 ## Some Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Har-Jass&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Har-Jass&show_icons=true&theme=prussian)
+[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Har-Jass&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
