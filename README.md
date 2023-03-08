@@ -21,7 +21,6 @@ Let me tell you a bit about myself <img src="https://raw.githubusercontent.com/M
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harjaspreet-singh-5351b2145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harjaspreet-singh-5351b2145/" height="20" width="20" /></a>
-
 <a href="https://wa.me/8882642666?text=Hi%20Jass" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/8882642666?text=Hi%20Jass" height="20" width="20" /></a>
 </p>
 
