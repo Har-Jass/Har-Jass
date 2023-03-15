@@ -24,8 +24,3 @@ Let me tell you a bit about myself <img src="https://raw.githubusercontent.com/M
 &nbsp; &nbsp;
 <a href="https://wa.me/8882642666?text=Hi%20Jass" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/8882642666?text=Hi%20Jass" height="20" width="20" /></a>
 </p>
-
-## Some Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Har-Jass&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Har-Jass&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
