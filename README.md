@@ -16,7 +16,7 @@ Let me tell you a bit about myself <img src="https://raw.githubusercontent.com/M
 - 🌱 Currently learning **Data Structures and Algorithms**.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Mail me @**harjaspreetsingh465@gmail.com**
-- 😄 Whatsapp me @**8882642666**
+- 😄 Whatsapp me @**+91 8882642666**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
