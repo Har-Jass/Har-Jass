@@ -11,7 +11,7 @@
 Let me tell you a bit about myself <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" />
 </h3>
 
-- 📚 Pursuing **Master's in Computer Applications**.
+- 📚 Completed **Master's in Computer Applications**.
 - 🌱 Currently learning **Data Structures and Algorithms**.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Mail me @**harjaspreetsingh465@gmail.com**
