@@ -11,7 +11,8 @@
 Let me tell you a bit about myself <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" />
 </h3>
 
-- 💼 Working in **TELUS Digital**.
+- 💼 Working in **Alight Solutions** as **Software Engineer**.
+- 🎯 Working on **SQL**, **SQL Server**, **SSIS**, **ETL**, etc. 
 - 📚 Completed **Master's in Computer Applications**.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Mail me @**harjaspreetsingh465@gmail.com**
